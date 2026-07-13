@@ -1,0 +1,10 @@
+## Commands Learned Day 01
+pwd 
+ls
+cd
+mkdir
+rmdir
+touch
+cp
+mv
+rm
