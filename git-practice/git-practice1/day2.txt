@@ -1,0 +1,6 @@
+To be Done
+git status
+git add 
+git commit
+git push
+
